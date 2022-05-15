@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "185.212.71.204",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "tiny-orchard",
+      "database": "tinyOrchard",
+      "username": "Hello_Lady",
+      "password": "w9@E8SB!sw%#5%"
+    }
+  ]
+}
