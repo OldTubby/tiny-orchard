@@ -1,6 +1,6 @@
 .title a,
 .title span {
-  color: #0070f3;
+  color: #a35c23;
   text-decoration: none;
 }
 
@@ -11,9 +11,9 @@
 }
 
 .title {
-  margin: 0;
+  margin: 2rem;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .title,

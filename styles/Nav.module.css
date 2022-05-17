@@ -1,11 +1,14 @@
 .nav {
-  height: 50px;
+  height: 65px;
   padding: 10px;
-  background: #605d47;
+  background: #747c32;
   color: #fff;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .nav ul {

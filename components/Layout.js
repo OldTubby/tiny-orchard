@@ -1,4 +1,5 @@
 import Meta from './Meta';
+import Link from 'next/link';
 import Header from './Header ';
 import Nav from './Nav';
 import styles from '../styles/Layout.module.css';
